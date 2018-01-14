@@ -12,6 +12,17 @@ _*Link:*_
 ========================
 [Sources Link](https://mailmtaac-my.sharepoint.com/personal/amigo_mta_ac_il/_layouts/15/guestaccess.aspx?folderid=0ec677e0056d14c14b217e7ec4455b6d8&authkey=AQDejY2bitF9cuHZbzMQMsE&e=G3Slyj)
 
+_*Youtube videos during and post development:*_
+===============================================
+**_Level 2 during development:_**
+* https://www.youtube.com/watch?v=8DpUHApKbTM
+* https://www.youtube.com/watch?v=2qfH1o-gyt8
+* https://www.youtube.com/watch?v=5rlnat95rlw
+* https://www.youtube.com/watch?v=InE0jbw3vSY
+* https://www.youtube.com/watch?v=EMQ5NZUPdHQ
+* https://www.youtube.com/watch?v=xUSgBIkbWMs
+* https://www.youtube.com/watch?v=PjNJ36wg8yA
+
 _*Development Highlights:*_
 ===========================
 * In second level - guard implemented using customized behavior tree, blackboard, controller, character. (AI character)
