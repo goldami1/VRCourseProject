@@ -1,4 +1,4 @@
-# Final Project in Academic VR Semestrial Course
+# Final Project in VR Academic Semestrial Course
 Final Project of VR course - Game developed in Unreal Engine 4.
 The game consists of 2 levels:
 * First level is an open world, and the mission is to find city's bank.
