@@ -26,5 +26,5 @@ _*Youtube videos during and post development:*_
 
 _*Development Highlights:*_
 ===========================
-* In second level - guard implemented using customized behavior tree, blackboard, controller, character. (AI character)
-* In first level - cars movement implemented using splines
+* In second level - guard (that uses gaze control) implemented by a customized character, behavior tree and blackboard. (AI character)
+* In first level - cars movement implemented using splines.
